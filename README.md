@@ -7,3 +7,7 @@
 
 streamlit run app.py
 http://localhost:8501/
+
+expose as MCP tool
+
+mcp install mcp_server.py
